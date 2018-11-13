@@ -1853,6 +1853,7 @@
      color: rgba(255, 255, 255, 0.6);
      text-align: center;
      position: relative;
+     /* background: linear-gradient(350deg, #f8f8ff 60%, #aaaaaa 60%); */
    }
 
    .s-contact a {
@@ -1884,7 +1885,7 @@
    .contact-main {
      font-size: 3.3rem;
      line-height: 1.636;
-     margin-top: 5rem;
+     margin-top: 5rem; /* Email padding */
    }
 
    .contact-main [class*="contact-"] {
