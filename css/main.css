@@ -1847,9 +1847,9 @@
     *
     * ------------------------------------------------------------------- */
    .s-contact {
-     padding-top: 18rem;
+     padding-top: 5rem;
      padding-bottom: 21rem;
-     background: linear-gradient(350deg, #aaaaaa 70%, #f8f8ff 70%);
+     background-color: #aaaaaa ;
      color: rgba(255, 255, 255, 0.6);
      text-align: center;
      position: relative;
@@ -1884,7 +1884,7 @@
    .contact-main {
      font-size: 3.3rem;
      line-height: 1.636;
-     margin-top: 9rem;
+     margin-top: 5rem;
    }
 
    .contact-main [class*="contact-"] {
@@ -1901,6 +1901,7 @@
      line-height: 1.2;
      color: #FFFFFF;
      border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+     margin-top: 200px;
    }
 
    .contact-email a:hover,
